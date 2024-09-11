@@ -5,7 +5,7 @@ def division(x,y):
     return x/y
 
 def suma(x,y):
-    return x+y
+    return x^y
 
 respuesta = suma(7,3)
 print(respuesta)
