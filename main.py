@@ -3,12 +3,7 @@ def resta(x,y):
 
 def division(x,y):
     return x/y
-
-def multiplicacion(x,y):
-    return x*y
-
-respuesta = multiplicacion(7,3)
-print(respuesta)
+print("Holas mundo")
 respuesta = division(7,3)
 print(respuesta)
 respuesta = resta(7,3)
