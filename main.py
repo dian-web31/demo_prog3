@@ -4,10 +4,8 @@ def resta(x,y):
 def division(x,y):
     return x/y
 
-print("Holas mundo")
-
-while True:
-    print("hola sebas")
+def suma(x,y):
+    return x+y
 
 respuesta = suma(7,3)
 print(respuesta)
